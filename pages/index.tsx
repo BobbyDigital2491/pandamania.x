@@ -1,6 +1,9 @@
-import BigText from 'components/BigText'
-import AltCont from 'components/Container/AltCont'
 import { Image, Button, Link } from '@chakra-ui/react'
+
+import BigText from 'components/BigText'
+
+import AltCont from 'components/Container/AltCont'
+
 
 export default function Home() {
   return (
