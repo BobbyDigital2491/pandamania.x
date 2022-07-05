@@ -1,6 +1,9 @@
 import Container from 'components/Container'
+
 import { Text, Image, Center } from '@chakra-ui/react'
+
 import AbText from 'components/BigText/AbText'
+
 import BbText from 'components/BigText/BbText'
 
 export default function About() {
